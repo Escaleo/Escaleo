@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trabajo actualmente en una empresa extranjera, como programador y encargado del test del software.<br>Me gusta colaborar en distintos desarrollos de software puesto que me gusta aprender en los retos.<br>Actualmente desarrollo con Php y de framework Laravel, junto con Js, tambien utilizo herramientas como tailwindcss para el diseño.<br>Actualmente estoy en desarrollo de un proyecto con React, typescript.<br>Me encanta utilizar nuevas herramientas, que faciliten y ahorren tiempo de trabajo sin dejar de lado la calidad del proyecto.
+Trabajo actualmente en una empresa extranjera, como programador fullstack y encargado del test del software.<br>Me gusta colaborar en distintos desarrollos de software puesto que me gusta aprender en los retos.<br>Actualmente desarrollo con Php y de framework Laravel, junto con Js, tambien utilizo herramientas como tailwindcss para el diseño.<br>Me encanta utilizar nuevas herramientas, que faciliten y ahorren tiempo de trabajo sin dejar de lado la calidad del proyecto.
 
 
 ## 🌐 Socials:
